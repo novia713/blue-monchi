@@ -1,0 +1,21 @@
+{
+  "name": "A monchi addon",
+  "description": "Blue color addon for Monchi game",
+  "developer": {
+    "name": "leandro713"
+  },
+
+  "role": "addon",
+  "package_path": "package.zip",
+  "type": "certified",
+
+  "customizations": [{
+    "filter": "monchi.leandro.org",
+    "css": ["/style/blue-monchi.css"],
+    "scripts": ["/js/blue-monchi.js"]
+  }],
+
+  "permissions": {
+    "desktop-notification":{}
+  }
+}
