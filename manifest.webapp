@@ -17,5 +17,9 @@
 
   "permissions": {
     "desktop-notification":{}
+  },
+  "icons":
+  {
+    "60":  "/icons/blue-monchi.png"
   }
 }
